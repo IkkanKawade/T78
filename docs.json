@@ -20,11 +20,12 @@
           {
             "group": "コミュニティ概要",
             "pages": [
-              "index",
-              "essentials/features",
-              "essentials/sharehouse",
-              "essentials/events",
-              "essentials/team"
+              { "name": "トップ",        "page": "index" },
+              { "name": "特徴",          "page": "essentials/features" },
+              { "name": "シェアハウス",  "page": "essentials/sharehouse" },
+              { "name": "イベント",      "page": "essentials/events" },
+              { "name": "よくある質問",  "page": "essentials/faq" },
+              { "name": "運営メンバー",  "page": "essentials/members" }
             ]
           }
         ]
