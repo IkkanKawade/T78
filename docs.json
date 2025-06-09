@@ -20,12 +20,12 @@
           {
             "group": "コミュニティ概要",
             "pages": [
-              { "name": "トップ",        "page": "index" },
-              { "name": "特徴",          "page": "essentials/features" },
-              { "name": "シェアハウス",  "page": "essentials/sharehouse" },
-              { "name": "イベント",      "page": "essentials/events" },
-              { "name": "よくある質問",  "page": "essentials/faq" },
-              { "name": "運営メンバー",  "page": "essentials/members" }
+              { "text": "トップ",       "link": "/index" },
+              { "text": "特徴",         "link": "/essentials/features" },
+              { "text": "シェアハウス", "link": "/essentials/sharehouse" },
+              { "text": "イベント",     "link": "/essentials/events" },
+              { "text": "よくある質問", "link": "/essentials/faq" },
+              { "text": "運営メンバー", "link": "/essentials/members" }
             ]
           }
         ]
